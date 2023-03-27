@@ -1,10 +1,9 @@
-package Modul2;
+package Latihan;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Latihan1 {
+public class Latihan{
     static ArrayList<String> namaHewan = new ArrayList<>(List.of("Sapi","Kelinci", "Kambing", "Unta", "Domba"));
     static ArrayList<String> deleteHewan = new ArrayList<>(List.of("Kelinci", "Kambing", "Unta"));
 

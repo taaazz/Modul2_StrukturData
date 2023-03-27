@@ -1,4 +1,4 @@
-package Modul2_Latihan;
+package Modul2_Kegiatan;
 
 import java.util.ArrayList;
 
@@ -18,7 +18,7 @@ class Kegiatan1 {
         hewan.add("Bebek");
         System.out.println(hewan);
 
-// menghitung jumlah elemen "Bebek" dan menampilkan posisi indexnya
+        // menghitung jumlah elemen "Bebek" dan menampilkan posisi indexnya
         int jumlahBebek = 0;
         for (int i = 0; i < hewan.size(); i++) {
             if (hewan.get(i).equals("Bebek")) {
